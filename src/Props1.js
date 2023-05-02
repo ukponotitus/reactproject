@@ -10,7 +10,6 @@ export default function Object(props) {
                     marginBottom: "5px",
                 }}> {props.text} </p>
                 <button id="btn">{props.button}</button>
-                {/* <a href="/"> {props.link} </a> */}
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-const Navbar = () => { //arrowfunction//
+const Navbar = () => { 
     return (
         <nav class="Navbar">
             <h1>The Dojo Blog</h1>
