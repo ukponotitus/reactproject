@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navhead{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    margin: 0 auto;
+    margin-bottom: 1px solid #f2f2f2;
+}
+h2{
+    color: rgb(9, 9, 151);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: 1.5em sans-serif;
+}
+h2 i{
+    position: absolute;
+    top: 2%;
+}
+/* .navhead.links{
+    margin-left: auto auto auto auto ;
+  } */
+  .navhead a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(9, 9, 151);
+    font: 1em sans-serif;
+  }
+  .images img{
+      width: 100%;
+      height: 70vh;
+  }
+  h1{
+      color: rgb(9, 9, 151);
+      font-family:'Times New Roman', Times, serif;
+      font-size: 600;
+  }
+  .imagetext{
+      color: rgb(53, 53, 99);
+      margin-top: 10px;
+  }
+  #btn{
+      margin-top: 10px;
+      padding: 13px;
+      background-color:rgb(126, 23, 223);
+      color: white;
+      width: 10vw;
+      border-radius: 5px;
+      border: none;
+      margin: 10px;
+  }
+  .time{
+      position: absolute;
+      top: 35%;
+      left: 10%;
+  }
+  .perantdiv{
+      /* border: solid red; */
+      /* width: 80%; */
+      height: 75vh;
+      padding-left: 50px;
+      margin-top: 30px;
+      display: flex;
+      flex-grow: 3;
+      margin: 30px;
+  }
+  .section_one{
+    display: flex;
+  }
+  .text1{
+      margin: 10px;
+      padding: 5px;
+  }
+  .image_2 img{
+      width: 90%;
+      border-radius: 10px;
+  }
+  .image2 img{
+    width: 90%;
+    border-radius: 10px;
+  }
+  #btn1{
+      width: 8vw;
+      border-radius: 10px;
+      margin-top: 15px;
+      padding: 10px;
+      border: solid rgb(108, 91, 124);
+      color: rgb(9, 9, 151);
+  }
+  .sectionone_1{
+      margin-top: 40px;
+  }
+  .text1 a{
+      margin-top: 20px;
+  }
+  .science{
+      margin-left: 6%;
+      display: flex;
+      justify-content: space-between;
+  }
+  .perantimages{
+      height: 75vh;
+    margin-left: 6%;
+      display: flex;
+  }
+  .images4 img{
+      margin-top: 45px;
+      width: 85%;
+      height: 45vh;
+      border-radius: 10px;
+  }
+  h3{
+    color: rgb(9, 9, 151);
+  }
+  #btn2{
+    border: solid rgb(108, 91, 124);
+    color: rgb(9, 9, 151);
+    padding: 8px;
+    border-radius: 10px;
+  }
+  p{
+      margin-top: 10px;
+  }

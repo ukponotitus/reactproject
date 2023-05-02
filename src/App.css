@@ -1,4 +1,34 @@
-.App {
+.App{
+  /* text-align: center; */
+  color: #f135f1;
+}
+.Navbar {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 1px solid #f2f2f2;
+}
+.Navbar h1{
+  color: #f135f1;
+}
+.Navbar .link{
+  margin-left: auto;
+}
+.Navbar a{
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 10px;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +65,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
